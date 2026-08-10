@@ -1,4 +1,4 @@
-package com.guilherme.example.entities;
+package com.guilherme.example.spring_data_jpa_practice.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
